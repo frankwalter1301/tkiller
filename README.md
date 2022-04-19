@@ -5,7 +5,7 @@
 * Seen on reply
 * Anti-Delete
 * Secret Chats (We are on desktop, remember!)
-* Spoof as the official Playstore Telegram Android client (because Telegram imposes stricter limits on other clients, but without content restrictions!)
+* Spoof as the official Telegram Android client (because Telegram imposes stricter limits on other clients, but without content restrictions!)
 * View IP Address of the other in P2P calls
 * Everything you ask, eventually...
 
