@@ -5,11 +5,11 @@
 * Seen on reply
 * Anti-Delete
 * Secret Chats (We are on desktop, remember!)
-* Spoof as the official Playstore Telegram Android client (because Telegram impose stricter limits on other clients, but without content restrictions!)
+* Spoof as the official Playstore Telegram Android client (because Telegram imposes stricter limits on other clients, but without content restrictions!)
 * View IP Address of the other in P2P calls
 * Everything you ask, eventually...
 
-Tldr; We are [Telegraher](https://github.com/ZGQ-inc/Telegraher) for desktop.
+Tldr; We are [Telegraher](https://github.com/ZGQ-inc/Telegraher) for Linux and Windows.
 ## Why?
 I have started using Mobian (a smartphone optimized Debian distribution) as my main mobile operating system and as a result, unless I want to use emulators, I am forced to use Telegram Desktop, however I do not like all the limitations it has in comparison to Telegram Android, so I decided to bypass them. And there are other things too!
 ##
