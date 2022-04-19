@@ -16,26 +16,26 @@ Go to the `tdesktop` directory and run
 
 ### Building the project
 
-Make sure that you're still in the `tdesktop` directory and run (using [your **api_id** and **api_hash**](#obtain-your-api-credentials))
+Make sure that you're still in the `tdesktop` directory and run (using official android telegram or [your](#obtain-your-api-credentials) **api_id** and **api_hash**)
 
     docker run --rm -it \
         -v $PWD:/usr/src/tdesktop \
         tdesktop:centos_env \
         /usr/src/tdesktop/Telegram/build/docker/centos_env/build.sh \
-        -D TDESKTOP_API_ID=YOUR_API_ID \
-        -D TDESKTOP_API_HASH=YOUR_API_HASH \
+        -D TDESKTOP_API_ID=4 \
+        -D TDESKTOP_API_HASH=014b35b6184100b085b0d0572f9b5103 \
         -D DESKTOP_APP_USE_PACKAGED=OFF \
         -D DESKTOP_APP_DISABLE_CRASH_REPORTS=OFF
 
-Or, to create a debug build, run (also using [your **api_id** and **api_hash**](#obtain-your-api-credentials))
+Or, to create a debug build, run (also using official android telegram or [your](#obtain-your-api-credentials) **api_id** and **api_hash**)
 
     docker run --rm -it \
         -v $PWD:/usr/src/tdesktop \
         -e DEBUG=1 \
         tdesktop:centos_env \
         /usr/src/tdesktop/Telegram/build/docker/centos_env/build.sh \
-        -D TDESKTOP_API_ID=YOUR_API_ID \
-        -D TDESKTOP_API_HASH=YOUR_API_HASH \
+        -D TDESKTOP_API_ID=4 \
+        -D TDESKTOP_API_HASH=014b35b6184100b085b0d0572f9b5103 \
         -D DESKTOP_APP_USE_PACKAGED=OFF \
         -D DESKTOP_APP_DISABLE_CRASH_REPORTS=OFF
 
