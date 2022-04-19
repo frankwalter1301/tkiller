@@ -9,7 +9,7 @@
 * View IP Address of the other in P2P calls
 * Everything you ask, eventually...
 
-Tldr; We are [Telegraher](https://github.com/ZGQ-inc/Telegraher) for Linux and Windows.
+Tldr; We are [Telegraher](https://github.com/nikitasius/Telegraher) for Linux and Windows.
 ## Why?
 I have started using Mobian (a smartphone optimized Debian distribution) as my main mobile operating system and as a result, unless I want to use emulators, I am forced to use Telegram Desktop, however I do not like all the limitations it has in comparison to Telegram Android, so I decided to bypass them. And there are other things too!
 ##
