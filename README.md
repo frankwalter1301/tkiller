@@ -1,5 +1,17 @@
-# [Telegram Desktop][telegram_desktop] – Official Messenger
+# Telegram Killer – Telegram Desktop but with selfish features that hurt the Telegram ecosystem
 
+## Killer features
+* Hide ads
+* Seen on reply
+* Anti-Delete
+* Secret Chats (We are on desktop, remember!)
+* Spoof as the official Playstore Telegram Android client (because Telegram impose stricter limits on other clients, but without content restrictions!)
+* View IP Address of the other in P2P calls
+* Everything you ask, eventually...
+
+## Why?
+I have started using Mobian (a smartphone optimized Debian distribution) as my main mobile operating system and as a result, unless I want to use emulators, I am forced to use Telegram Desktop, however I do not like all the limitations it has in comparison to Telegram Android, so I decided to bypass them. And there are other things too!
+##
 This is the complete source code and the build instructions for the alpha version of the official desktop client for the [Telegram][telegram] messenger, based on the [Telegram API][telegram_api] and the [MTProto][telegram_proto] secure protocol.
 
 [![Version](https://badge.fury.io/gh/telegramdesktop%2Ftdesktop.svg)](https://github.com/telegramdesktop/tdesktop/releases)
