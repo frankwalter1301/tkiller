@@ -10,13 +10,13 @@ You will require **api_id** and **api_hash** to access the Telegram API servers.
 
 ### Prepare libraries
 
-Go to the `tdesktop` directory and run
+Go to the `tkiller` directory and run
 
     docker build -t tdesktop:centos_env Telegram/build/docker/centos_env/
 
 ### Building the project
 
-Make sure that you're still in the `tdesktop` directory and run (using official android telegram or [your](#obtain-your-api-credentials) **api_id** and **api_hash**)
+Make sure that you're still in the `tkiller` directory and run (using official android telegram or [your](#obtain-your-api-credentials) **api_id** and **api_hash**)
 
     docker run --rm -it \
         -v $PWD:/usr/src/tdesktop \
